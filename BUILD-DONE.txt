@@ -1,0 +1,6 @@
+Test count: 29 passing (python -m pytest -q).
+Local implementation commit hash: 6bb0d972a1a2792cbb8a0af529d8242577b2c14a
+Branch: main. A subsequent documentation commit records this build receipt.
+Measured end-to-end installed CLI demo: 0.623 seconds for 200 synthetic records.
+
+Built a local-only deterministic Python permission manager with pure risk policy logic, validated JSON/JSONL input, atomic result/report writes, fixtures, run, report, check and policy subcommands, Markdown and JSON provenance reports, 200 labelled synthetic records with independently enumerated expectations, a five-record example, adversarial tests, architecture and honesty documentation, measured build evidence and KOML lessons. All planted restrictions matched exactly with zero false positives; totals reconcile to 350 grants and 450 denials. Runtime enforcement remains an external integration responsibility. The real-use verdict awaits the required two-week evidence window. No publication was performed.
