@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+.apm-results.json
+demo/
+agent-permission-manager-codex.log
+agent-permission-manager-launch.py
+agent-permission-manager-prompt.txt
